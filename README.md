@@ -1,3 +1,11 @@
+# VPS
+50h, minimum config, in $
+|Platform|cpu|ram|price|
+|-|-|-|-|
+|Oracle||||
+|aws||||
+|digitalocean||||
+
 # EBike
 
 |名|续航|价|||||
