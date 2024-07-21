@@ -2,7 +2,7 @@
 50h, minimum config, in $
 |Platform|cpu|ram|price|
 |-|-|-|-|
-|Oracle||||
+|Oracle|2|1|1.33|
 |aws||||
 |digitalocean||||
 
